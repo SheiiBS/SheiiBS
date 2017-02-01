@@ -15,27 +15,41 @@ excerpt: Múltiples MeetUps se han realizado en Cuba para compartir el conocimie
 
 ## Introducción
 
-A inicios del pasado mes de noviembre se crea la primera <a href="https://www.meetup.com/Docker-Havana/" target="_blank">Comunidad de Docker en Cuba</a>. Los fundadores del grupo <a href="https://twitter.com/kikicarbonell" target="_blank">Enrique Carbonel y <a href="https://twitter.com/morejon85" target="_blank">Manuel Morejón</a> han unido esfuerzos para compartir el conocimiento de <a href="https://www.docker.com/" target="_blank">Docker</a> en el país. Apoyados por la <a target="_blank" href="https://www.docker.com/docker-community">Comunidad de Docker</a> y por los patrocinadores locales han llevado a cabo tres encuentros en diferentes provincias. Si desea saber los detalles de cada encuentro lea a continuación:
+A inicios del pasado mes de noviembre se crea la primera <a href="https://www.meetup.com/Docker-Havana/" target="_blank">Comunidad de Docker en Cuba</a>. Los fundadores del grupo <a href="https://twitter.com/kikicarbonell" target="_blank">Enrique Carbonel y <a href="https://twitter.com/morejon85" target="_blank">Manuel Morejón</a> han unido esfuerzos para compartir el conocimiento de <a href="https://www.docker.com/" target="_blank">Docker</a> en el país. Apoyados por la <a target="_blank" href="https://www.docker.com/docker-community">Comunidad de Docker</a> y por los patrocinadores locales han llevado a cabo tres encuentros en diferentes provincias. A continuación los detalles de cada encuentro:
 
 ## Semana Global del Mentor - La Habana - 3 de diciembre de 2016
 
-Participó un aproximado de 60 personas. Dentro de este grupo se logró identificar la presencia de los siguientres roles: ingenieros de software, administradores de sistemas y profesores universitarios.
+Participaron 60 personas aproximadamente y dentro de este grupo se logró identificar la presencia de los siguientes roles: ingenieros de software, administradores de sistemas y profesores universitarios.
 
-Durante las tres horas que duró el encuentro se logró compartir los conceptos fundamentales de Docker y realizar un ejercicio de laboratorio para mostar en la práctica cómo Construir, Distribuir y Ejecutar las imágenes y los contenedores de Docker.
+Durante las tres horas que duró el encuentro se logró compartir los conceptos fundamentales de Docker y realizar un ejercicio de laboratorio para mostrar en la práctica cómo Construir, Distribuir y Ejecutar las imágenes y los contenedores de Docker.
+
+Si desea ver los comentarios del evento realizado en La Habana, visite el <a target="_blank" href="">siguiente enlace.
 
 <img src="{{ site.baseurl }}/images/three-docker-meetups/docker-havana.jpg" title="Docker Havana - La Habana" name="Docker Havana - La Habana" />
 
-## Semana Global del Mentor - Santi Spiritus - 20 de enero de 2017
+## Semana Global del Mentor - Santi Spíritus - 20 de enero de 2017
 
-Participó un aproximado de 45 personas. Dentro de este grupo se logró identificar la presencia de los siguientres roles: ingenieros de software, administradores de sistemas, directivos TI asociados a empresas de software.
+Participaron 45 personas aproximadamente y dentro de este grupo se logró identificar la presencia de los siguientes roles: ingenieros de software, administradores de sistemas, directivos TI asociados a empresas de software.
+
+Si desea ver los comentarios del evento realizado en Santi Spíritus, visite el <a target="_blank" href="">siguiente enlace</a>.
+
+<img src="{{ site.baseurl }}/images/three-docker-meetups/docker-santi-spiritus.jpg" title="Docker Havana - Santi Spiritus" name="Docker Havana - Santi Spiritus" />
 
 ## Todo el Día de Docker - Santa Clara - 27 de enero de 2017
 
-Participó un aproximado de 50 personas. Dentro de este grupo se logró identificar la presencia de los siguientres roles: ingenieros de software, administradores de sistemas y profesores universitarios.
+Participaron 50 personas aproximadamente y dentro de este grupo se logró identificar la presencia de los siguientes roles: ingenieros de software, administradores de sistemas y profesores universitarios.
 
-El evento duro todo el día (7 horas). En la sessión de la mañana se explicaron los conceptos de Docker, se realizó un ejemplo práctico y se analizaron los posibles escenarios presentes en nuestros entornos de trabajo.
+El evento duró todo el día (7 horas). En la sesión de la mañana se explicaron los conceptos de Docker, se realizó un ejemplo práctico y se analizaron los posibles escenarios presentes en nuestros entornos de trabajo.
+
+Después del almuerzo, se dedicó la tarde a la realización de laboratorios. Cada participante creó su cuenta en Docker Hub y dieron sus primeros pasos realizando ejercicios en la plataforma de Docker de manera individual.
+
+Si desea ver los comentarios del evento realizado en Santa Clara, visite el <a target="_blank" href="">siguiente enlace</a>.
 
 <img src="{{ site.baseurl }}/images/three-docker-meetups/docker-santa-clara.jpg" title="Docker Havana - Santa Clara" name="Docker Havana - Santa Clara" />
+
+## Resumen de Ideas
+
+La <a href="https://www.meetup.com/Docker-Havana/" target="_blank">Comunidad de Docker Havana</a> tiene la intención de seguir realizando actividades para apoyar el desarrollo de software. Si desea apoyarnos con sus conocimientos será siempre bienvenido.
 
 ## Enlaces Relacionados
 
