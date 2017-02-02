@@ -29,15 +29,15 @@ Si desea ver los comentarios del evento realizado en La Habana, visite el <a tar
 
 <img src="{{ site.baseurl }}/images/three-docker-meetups/docker-havana.jpg" title="Docker Havana - La Habana" name="Docker Havana - La Habana" />
 
-## Mentor Local de Docker - Santi Spíritus - 20 de enero de 2017
+## Mentor Local de Docker - Sancti Spíritus - 20 de enero de 2017
 
 Participaron 45 personas aproximadamente y dentro de este grupo se logró identificar la presencia de los siguientes roles: ingenieros de software, administradores de sistemas, directivos TI asociados a empresas de software.
 
 Durante las tres horas que duró el encuentro se logró hacer una charla interactiva sobre los temas de Cajas de Arena (Sandbox) y Virtualización. También se mostraron los beneficios de la implementación con Docker a partir los sus conceptos fundamentales, tecnolgía y filosofía de trabajo.
 
-Si desea ver los comentarios del evento realizado en Santi Spíritus, visite el <a target="_blank" href="https://www.meetup.com/Docker-Havana/events/236857148/">siguiente enlace</a>.
+Si desea ver los comentarios del evento realizado en Sancti Spíritus, visite el <a target="_blank" href="https://www.meetup.com/Docker-Havana/events/236857148/">siguiente enlace</a>.
 
-<img src="{{ site.baseurl }}/images/three-docker-meetups/docker-santi-spiritus.jpg" title="Docker Havana - Santi Spiritus" name="Docker Havana - Santi Spiritus" />
+<img src="{{ site.baseurl }}/images/three-docker-meetups/docker-sancti-spiritus.jpg" title="Docker Havana - Sancti Spiritus" name="Docker Havana - Sancti Spiritus" />
 
 ## Todo el Día de Docker - Santa Clara - 27 de enero de 2017
 
@@ -51,9 +51,11 @@ Si desea ver los comentarios del evento realizado en Santa Clara, visite el <a t
 
 <img src="{{ site.baseurl }}/images/three-docker-meetups/docker-santa-clara.jpg" title="Docker Havana - Santa Clara" name="Docker Havana - Santa Clara" />
 
-## Resumen de Ideas
+## Ideas Finales
 
 La <a href="https://www.meetup.com/Docker-Havana/" target="_blank">Comunidad de Docker Havana</a> tiene la intención de compartir el conocimiento para apoyar al proceso de desarrollo de software. Si desea apoyarnos será siempre bienvenido.
+
+<img src="{{ site.baseurl }}/images/three-docker-meetups/docker-havana-team.jpg" title="Equipo Docker Habana" name="Equipo Docker Habana" />
 
 ## Patrocinadores
 
