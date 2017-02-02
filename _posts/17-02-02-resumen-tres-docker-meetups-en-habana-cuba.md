@@ -2,22 +2,22 @@
 layout: post
 title: Resumen de Tres Docker MeetUps en La Habana - Cuba.
 permalink: /blog/resumen-tres-docker-meetups-en-la-habana-cuba/
-translate_en: /en/blog/resume-of-three-docker-meetups-in-havana-cuba/
+translate_en: /en/blog/summary-of-three-docker-meetups-in-havana-cuba/
 lang: es
 sidebar: yes
 category: [articulo]
-tags: [docker, meetups]
+tags: [docker]
 image: /images/three-docker-meetups/DockerCon-logo-for-Meetup.jpg
-excerpt: Múltiples MeetUps se han realizado en Cuba para compartir el conocimiento hacerca de Docker. Socializar la información entre los amantes de Docker es el principal objetivo.
+excerpt: Múltiples MeetUps se han realizado en Cuba para compartir el conocimiento acerca de Docker. Socializar la información entre los amantes de Docker es el principal objetivo.
 ---
 
 <img src="{{ site.baseurl }}/images/three-docker-meetups/DockerCon-logo-for-Meetup.jpg" title="DockerCon-logo-for-Meetup" name="DockerCon-logo-for-Meetup" />
 
 ## Introducción
 
-A inicios del pasado mes de noviembre se crea la primera <a href="https://www.meetup.com/Docker-Havana/" target="_blank">Comunidad de Docker en Cuba</a>. Los fundadores del grupo <a href="https://twitter.com/kikicarbonell" target="_blank">Enrique Carbonel</a> y <a href="https://twitter.com/morejon85" target="_blank">Manuel Morejón</a> han unido esfuerzos para compartir el conocimiento de <a href="https://www.docker.com/" target="_blank">Docker</a> en el país. Apoyados por la <a target="_blank" href="https://www.docker.com/docker-community">Comunidad de Docker</a> y por los patrocinadores locales han llevado a cabo tres encuentros en diferentes provincias. 
+A inicios del pasado mes de noviembre se crea la primera <a href="https://www.meetup.com/Docker-Havana/" target="_blank">Comunidad de Docker en Cuba</a>. Los fundadores del grupo <a href="https://twitter.com/kikicarbonell" target="_blank">Enrique Carbonel</a> y <a href="https://twitter.com/morejon85" target="_blank">Manuel Morejón</a> han unido esfuerzos para compartir el conocimiento de <a href="https://www.docker.com/" target="_blank">Docker</a> en el país. Apoyados por la <a target="_blank" href="https://www.docker.com/docker-community">Comunidad de Docker</a> y por los patrocinadores locales han llevado a cabo tres encuentros en diferentes provincias de Cuba. 
 
-Los encuentros realizados han logrado reunir diferentes sectores del país entre los que se encuentran las universidades, las empresas estatales y los trabajadores por cuenta propia. A continuación los mostramos en detalles cada encuentro:
+Los encuentros realizados han logrado reunir diferentes sectores del país entre los que se encuentran las universidades, las empresas estatales y los trabajadores por cuenta propia. A continuación le mostramos los detalles de cada encuentro:
 
 ## Semana Global del Mentor de Docker - La Habana - 3 de diciembre de 2016
 
@@ -53,17 +53,14 @@ Si desea ver los comentarios del evento realizado en Santa Clara, visite el <a t
 
 ## Resumen de Ideas
 
-La <a href="https://www.meetup.com/Docker-Havana/" target="_blank">Comunidad de Docker Havana</a> tiene la intención de seguir realizando actividades para apoyar el desarrollo de software. Si desea apoyarnos con sus conocimientos será siempre bienvenido.
+La <a href="https://www.meetup.com/Docker-Havana/" target="_blank">Comunidad de Docker Havana</a> tiene la intención de compartir el conocimiento para apoyar al proceso de desarrollo de software. Si desea apoyarnos será siempre bienvenido.
 
 ## Patrocinadores
 
 - [Docker Inc.](http://www.docker.com/)
-- [Autrement](http://www.cubaautrement.com/)
 - [Vliruous](http://www.vliruos.be/) - [ICT Network Cuba](http://www.vliruos.be/en/ongoing-projects/overview-of-ongoing-projects/network-cooperation/network-ict-cuba/) - [UCLV](http://www.uclv.edu.cu/)
 - [DevOpsDays Cuba](https://devopsdayscuba.eventos.uci.cu/)
 - [UIC Cuba](http://www.uniondeinformaticos.cu/)
-
-**Si está interesado en formar parte de nuestros patrocinadores** puede contactarnos en el sitio [Docker Havana Community](https://www.meetup.com/Docker-Havana) o a través de las cuentas de <a href="https://twitter.com/kikicarbonell" target="_blank">Enrique Carbonel</a> y <a href="https://twitter.com/morejon85" target="_blank">Manuel Morejón</a>. 
 
 ## Enlaces Relacionados
 
