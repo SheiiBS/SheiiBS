@@ -29,7 +29,7 @@ Si desea ver los comentarios del evento realizado en La Habana, visite el <a tar
 
 ## Mentor Local de Docker - Sancti Spíritus - 20 de enero de 2017
 
-Participaron 45 personas aproximadamente y dentro de este grupo se logró identificar la presencia de los siguientes roles: ingenieros de software, administradores de sistemas, directivos TI asociados a empresas de software.
+Participaron más de 40 personas y dentro de este grupo se logró identificar la presencia de los siguientes roles: ingenieros de software, administradores de sistemas, directivos TI asociados a empresas de software.
 
 Durante las tres horas que duró el encuentro se logró hacer una charla interactiva sobre los temas de Cajas de Arena (Sandbox) y Virtualización. También se mostraron los beneficios de la implementación con Docker a partir los sus conceptos fundamentales, tecnolgía y filosofía de trabajo.
 
@@ -39,7 +39,7 @@ Si desea ver los comentarios del evento realizado en Sancti Spíritus, visite el
 
 ## Todo el Día de Docker - Santa Clara - 27 de enero de 2017
 
-Participaron 50 personas aproximadamente y dentro de este grupo se logró identificar la presencia de los siguientes roles: ingenieros de software, administradores de sistemas y profesores universitarios.
+Participaron más de 50 personas y dentro de este grupo se logró identificar la presencia de los siguientes roles: ingenieros de software, administradores de sistemas y profesores universitarios.
 
 El evento duró todo el día (8 horas). En la sesión de la mañana se explicaron los conceptos de Docker, se realizó un ejemplo práctico y se analizaron los posibles escenarios presentes en nuestros entornos de trabajo.
 
