@@ -8,7 +8,7 @@ sidebar: yes
 category: [article]
 tags: [docker]
 image: /images/three-docker-meetups/docker-santa-clara.jpg
-excerpt: Various MeetUps has been realized in Cuba to share the knowledge about of Docker. Socializing the information between Docker enthusiastic is the main objective.
+excerpt: Several MeetUps has been realized in Cuba to share the knowledge about of Docker. Socializing the information between Docker enthusiastic is the main objective.
 ---
 
 ## Introduction
