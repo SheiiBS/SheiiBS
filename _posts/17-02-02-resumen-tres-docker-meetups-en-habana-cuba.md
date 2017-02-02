@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resumen de Tres Docker MeetUps en La Habana - Cuba.
+title: Resumen de Tres Docker MeetUps en La Habana - Cuba
 permalink: /blog/resumen-tres-docker-meetups-en-la-habana-cuba/
 translate_en: /en/blog/summary-of-three-docker-meetups-in-havana-cuba/
 lang: es
