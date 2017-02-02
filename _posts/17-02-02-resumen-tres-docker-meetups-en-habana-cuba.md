@@ -53,6 +53,8 @@ Si desea ver los comentarios del evento realizado en Santa Clara, visite el <a t
 
 La <a href="https://www.meetup.com/Docker-Havana/" target="_blank">Comunidad de Docker Havana</a> tiene la intención de compartir el conocimiento para apoyar al proceso de desarrollo de software. Si desea apoyarnos será siempre bienvenido.
 
+<img src="{{ site.baseurl }}/images/three-docker-meetups/DockerCon-logo-for-Meetup.jpg" title="DockerCon-logo-for-Meetup" name="DockerCon-logo-for-Meetup" />
+
 <img src="{{ site.baseurl }}/images/three-docker-meetups/docker-havana-team.jpg" title="Equipo Docker Habana" name="Equipo Docker Habana" />
 
 ## Patrocinadores

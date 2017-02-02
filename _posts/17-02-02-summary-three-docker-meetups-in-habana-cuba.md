@@ -41,6 +41,8 @@ In the afternoon session participants practiced the use of the Docker platform. 
 
 The <a href="https://www.meetup.com/Docker-Havana/" target="_blank">Docker-Havana Community</a> has the purpose of spread the knowledge to support the software development process. If you desire help us with your knowledge you will be always welcome.
 
+<img src="{{ site.baseurl }}/images/three-docker-meetups/DockerCon-logo-for-Meetup.jpg" title="DockerCon-logo-for-Meetup" name="DockerCon-logo-for-Meetup" />
+
 <img src="{{ site.baseurl }}/images/three-docker-meetups/docker-havana-team.jpg" title="Docker Havana Team" name="Docker Havana Team" />
 
 ## Sponsors
