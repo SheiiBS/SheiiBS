@@ -7,11 +7,9 @@ lang: es
 sidebar: yes
 category: [articulo]
 tags: [docker]
-image: /images/three-docker-meetups/DockerCon-logo-for-Meetup.jpg
+image: /images/three-docker-meetups/docker-santa-clara.jpg
 excerpt: Múltiples MeetUps se han realizado en Cuba para compartir el conocimiento acerca de Docker. Socializar la información entre los amantes de Docker es el principal objetivo.
 ---
-
-<img src="{{ site.baseurl }}/images/three-docker-meetups/DockerCon-logo-for-Meetup.jpg" title="DockerCon-logo-for-Meetup" name="DockerCon-logo-for-Meetup" />
 
 ## Introducción
 
