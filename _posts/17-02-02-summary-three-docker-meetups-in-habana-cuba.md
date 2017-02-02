@@ -13,7 +13,7 @@ excerpt: Several MeetUps has been realized in Cuba to share the knowledge about 
 
 ## Introduction
 
-Early November 2016 the first <a href="https://www.meetup.com/Docker-Havana/" target="_blank">Docker Community in Cuba</a> was established. The founders <a href="https://twitter.com/kikicarbonell" target="_blank">Enrique Carbonel</a> and <a href="https://twitter.com/morejon85" target="_blank">Manuel Morejón</a> joined efforts in order to share and spread the knowledge about <a href="https://www.docker.com/" target="_blank">Docker</a> in the country. Supported by <a target="_blank" href="https://www.docker.com/docker-community">Docker Community</a> and local sponsors three meetings have been held in different provinces in Cuba.
+Early November 2016 the first <a href="https://www.meetup.com/Docker-Havana/" target="_blank">Docker Community in Cuba</a> was established. The founders <a href="https://twitter.com/kikicarbonell" target="_blank">Enrique Carbonell</a> and <a href="https://twitter.com/morejon85" target="_blank">Manuel Morejón</a> joined efforts in order to share and spread the knowledge about <a href="https://www.docker.com/" target="_blank">Docker</a> in the country. Supported by <a target="_blank" href="https://www.docker.com/docker-community">Docker Community</a> and local sponsors three meetings have been held in different provinces in Cuba.
 
 Meetings held have gathered professionals from different areas of the country such as universities, governmental enterprises and freelance developers. Details of the meetings held are shown below:
 
