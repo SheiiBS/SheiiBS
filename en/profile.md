@@ -6,7 +6,7 @@ translate_es: /perfil/
 ---
 
 ## General Information
-<p class="profile-description">MSc. Applied Software, Software Configuration Management, Software Engineer.
+<p class="profile-description">MSc. Applied Software, DevOps Engineer, Consultor, Software Engineer.
 <br>
 Havana | Cuba
 </p>
@@ -14,7 +14,7 @@ Havana | Cuba
 	<tbody>
 		<tr>
 			<td class="profile-table-header">Current :</td>
-			<td class="profile-table-info">Configuration Management & DevOps</td>
+			<td class="profile-table-info">DevOps Engineer & Consultor</td>
 		</tr>
 		<tr>
 			<td></td>
@@ -31,46 +31,88 @@ Havana | Cuba
 	</tbody>
 </table>
 
-## Education
+## Skills
 
 <table class="profile-table">
 	<tbody>
 		<tr>
-			<td class="profile-table-header">Dates :</td>
-			<td class="profile-table-info">2009 - 2013</td>
+			<td class="profile-table-header">Software Engineer</td>
+			<td class="profile-table-info">Software Configuration Management, Agile Development Methodologies, Project Management and Design patterns.</td>
 		</tr>
 		<tr>
-			<td class="profile-table-header">Title :</td>
-			<td class="profile-table-info">Master in Applied Software</td>
+			<td class="profile-table-header">Source code management</td>
+			<td class="profile-table-info">Git, GitHub, GitLab, Git-Flow, Gitolite, Subversion, Mercurial, SourceTree, Kdiff3 and Git-Cola.</td>
 		</tr>
 		<tr>
-			<td class="profile-table-header">Issued by :</td>
-			<td class="profile-table-info"><a href="http://cujae.edu.cu/" target="_blank">Technological University of Havana</a></td>
-		<tr>
+			<td class="profile-table-header">Project Management</td>
+			<td class="profile-table-info">ZenHub, Redmine, Jira, YouTrack and MantisBT.</td>
 		</tr>
-			<td class="profile-table-header">Subject :</td>
-			<td class="profile-table-info">Software Configuration Management in open source environments.</td>
+		<tr>
+			<td class="profile-table-header">Build and Release</td>
+			<td class="profile-table-info">Ant, Maven, Jenkins and Git-FTP.</td>
+		</tr>
+		<tr>
+			<td class="profile-table-header">Automation Tools</td>
+			<td class="profile-table-info">Ansible.</td>
+		</tr>
+		<tr>
+			<td class="profile-table-header">Monitoring Tools</td>
+			<td class="profile-table-info">Check MK.</td>
+		</tr>
+		<tr>
+			<td class="profile-table-header">Virtualization</td>
+			<td class="profile-table-info">Docker, Vagrant, XenServer, Citrix, Xen Orchestra, VMWare, MDADM.</td>
+		</tr>
+		<tr>
+			<td class="profile-table-header">LDAP</td>
+			<td class="profile-table-info">OpenLdap, phpLdapAdmin.</td>
+		</tr>
+		<tr>
+			<td class="profile-table-header">Operating Systems</td>
+			<td class="profile-table-info">Linux (Ubuntu, CoreOS), Machintosh</td>
+		</tr>
+		<tr>
+			<td class="profile-table-header">Lenguages</td>
+			<td class="profile-table-info">Java, C++, PHP, Markdown and UML.</td>
+		</tr>
+		<tr>
+			<td class="profile-table-header">CMS and ECommerces</td>
+			<td class="profile-table-info">Joomla, WordPress, Plone and Prestashop.</td>
+		</tr>
+		<tr>
+			<td class="profile-table-header">Frameworks</td>
+			<td class="profile-table-info">Yii, Yii2.</td>
 		</tr>
 	</tbody>
 </table>
 
+## Communities
+
 <table class="profile-table">
 	<tbody>
 		<tr>
-			<td class="profile-table-header">Dates :</td>
-			<td class="profile-table-info">2004 - 2009</td>
+			<td class="profile-table-header">Docker Community:</td>
+			<td class="profile-table-info"><a href="https://www.docker.com/community/docker-captains" target="_blank">Member of Docker Captain Program</a>
+			<br>
+			Member of Docker Mentor Program
+			<br>
+			<a href="https://www.meetup.com/Docker-Havana/" target="_blank">Founder and Co-Organizer of Docker Havana Meetup</a>
+			<br><br>
+			</td>
 		</tr>
 		<tr>
-			<td class="profile-table-header">Title :</td>
-			<td class="profile-table-info">Software Engineer</td>
-		</tr>
-		<tr>
-			<td class="profile-table-header">Issued by :</td>
-			<td class="profile-table-info"><a href="http://cujae.edu.cu/" target="_blank">Technological University of Havana</a></td>
-		<tr>
-		</tr>
-			<td class="profile-table-header">Qualification :</td>
-			<td class="profile-table-info">4.58 / 5.0</td>
+			<td class="profile-table-header">DZone Community</td>
+			<td class="profile-table-info"><a href="https://dzone.com/users/1291603/manuel.morejon.85@gmail.com.html" target="_blank">Member of Program MVB</a>
+			<br>
+			Co-Author of the Guide <a href="https://dzone.com/guides/devops-continuous-delivery-and-automation" target="_blank">DevOps: Continuous Delivery and Automation</a>
+			<br>
+			Articles published:<br>
+			<a href="https://dzone.com/articles/devops-tips-to-select-your-hosted-continuous-integ" target="_blank">Selecting Your Local Continuous Integration Tool</a>
+			<br>
+			<a href="https://dzone.com/articles/build-your-pipeline-in-jenkins-20-as-code-with-ios" target="_blank">How to Build Your Pipeline in Jenkins 2.0 as Code for iOS9 and XCode7</a>
+			<br>
+			<a href="https://dzone.com/articles/microservices-an-example-with-docker-go-and-mongod" target="_blank">Microservices: An Example With Docker, Go, and MongoDB</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
@@ -133,6 +175,50 @@ Havana | Cuba
 	</tbody>
 </table>
 
+## Education
+
+<table class="profile-table">
+	<tbody>
+		<tr>
+			<td class="profile-table-header">Dates :</td>
+			<td class="profile-table-info">2009 - 2013</td>
+		</tr>
+		<tr>
+			<td class="profile-table-header">Title :</td>
+			<td class="profile-table-info">Master in Applied Software</td>
+		</tr>
+		<tr>
+			<td class="profile-table-header">Issued by :</td>
+			<td class="profile-table-info"><a href="http://cujae.edu.cu/" target="_blank">Technological University of Havana</a></td>
+		<tr>
+		</tr>
+			<td class="profile-table-header">Subject :</td>
+			<td class="profile-table-info">Software Configuration Management in open source environments.</td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="profile-table">
+	<tbody>
+		<tr>
+			<td class="profile-table-header">Dates :</td>
+			<td class="profile-table-info">2004 - 2009</td>
+		</tr>
+		<tr>
+			<td class="profile-table-header">Title :</td>
+			<td class="profile-table-info">Software Engineer</td>
+		</tr>
+		<tr>
+			<td class="profile-table-header">Issued by :</td>
+			<td class="profile-table-info"><a href="http://cujae.edu.cu/" target="_blank">Technological University of Havana</a></td>
+		<tr>
+		</tr>
+			<td class="profile-table-header">Qualification :</td>
+			<td class="profile-table-info">4.58 / 5.0</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Additional Formation
 
 <table class="profile-table">
@@ -158,61 +244,6 @@ Havana | Cuba
 		<tr>
 			<td class="profile-table-header">Others :</td>
 			<td class="profile-table-info">He has served as tribunal, tutor and opponent in diploma thesis.</td>
-		</tr>
-	</tbody>
-</table>
-
-## Skills
-
-<table class="profile-table">
-	<tbody>
-		<tr>
-			<td class="profile-table-header">Software Engineer</td>
-			<td class="profile-table-info">Software Configuration Management, Agile Development Methodologies, Project Management and Design patterns.</td>
-		</tr>
-		<tr>
-			<td class="profile-table-header">Source code management</td>
-			<td class="profile-table-info">Git, GitHub, GitLab, Git-Flow, Gitolite, Subversion, Mercurial, SourceTree, Kdiff3 and Git-Cola.</td>
-		</tr>
-		<tr>
-			<td class="profile-table-header">Project Management</td>
-			<td class="profile-table-info">ZenHub, Redmine, Jira, YouTrack and MantisBT.</td>
-		</tr>
-		<tr>
-			<td class="profile-table-header">Build and Release</td>
-			<td class="profile-table-info">Ant, Maven, Jenkins and Git-FTP.</td>
-		</tr>
-		<tr>
-			<td class="profile-table-header">Automation Tools</td>
-			<td class="profile-table-info">Ansible.</td>
-		</tr>
-		<tr>
-			<td class="profile-table-header">Monitoring Tools</td>
-			<td class="profile-table-info">Check MK.</td>
-		</tr>
-		<tr>
-			<td class="profile-table-header">Virtualization</td>
-			<td class="profile-table-info">Docker, Vagrant, XenServer, Citrix, Xen Orchestra, VMWare, MDADM.</td>
-		</tr>
-		<tr>
-			<td class="profile-table-header">LDAP</td>
-			<td class="profile-table-info">OpenLdap, phpLdapAdmin.</td>
-		</tr>
-		<tr>
-			<td class="profile-table-header">Operating Systems</td>
-			<td class="profile-table-info">Linux (Ubuntu, CoreOS), Machintosh</td>
-		</tr>
-		<tr>
-			<td class="profile-table-header">Lenguages</td>
-			<td class="profile-table-info">Java, C++, PHP, Markdown and UML.</td>
-		</tr>
-		<tr>
-			<td class="profile-table-header">CMS and ECommerces</td>
-			<td class="profile-table-info">Joomla, WordPress, Plone and Prestashop.</td>
-		</tr>
-		<tr>
-			<td class="profile-table-header">Frameworks</td>
-			<td class="profile-table-info">Yii, Yii2.</td>
 		</tr>
 	</tbody>
 </table>
