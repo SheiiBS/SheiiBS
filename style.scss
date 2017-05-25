@@ -301,6 +301,54 @@ img {
   margin-top: 10px;
 }
 
+.div-course-docker {
+    text-align: center;
+}
+
+#index {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header {
+    display: block;
+    background-color: $lightGray;
+    padding: 10px;
+    margin: 0px;
+    margin-top: 2px;
+    border: 1px solid #ddd;
+}
+
+.part {
+    p, input {
+      display: none;
+      text-align: center;
+      padding: 5px;
+      margin: 0px;
+      border-bottom: 1px solid #ddd;
+      border-left: 1px solid #ddd;
+      border-right: 1px solid #ddd;
+    }
+}
+
+.part input:checked ~ p {
+    display: block;
+}
+
+.udemy-buttons {
+  text-align: center;
+  padding: 11px 12px;
+
+  a {
+    background-color: #17aa1c;
+    color: #fff;
+    height: 45px;
+    border: 1px solid transparent;
+    padding: 11px 12px;
+    cursor: pointer;
+  }
+}
+
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
