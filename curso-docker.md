@@ -3,7 +3,7 @@ layout: page
 title: Curso Integrando Docker a su infraestructura y servicios
 permalink: /curso/integrando-docker-a-su-infaestructura-y-servicios
 sidebar: no
-translate_en: /en/course/integrating-docker-in-your-infrastructure-and-services
+translate_en: /en/course/integrating-docker-into-your-infrastructure-and-services
 lang: es
 category: [course]
 tags: [docker]
@@ -15,10 +15,7 @@ excerpt: Aprenda, utilice y adapte Docker desde cero. Despliegue sus servicios d
 
 El curso da solución al problema que tienen los estudiantes que desean aprender, utilizar y adaptar Docker a las necesidades de su empresa o grupo de desarrollo pero no saben cómo empezar. Les ayudará a entender cómo sacar provecho de la agilidad, control y portabilidad que proporciona Docker.
 
-<div class="udemy-buttons">
-<a href="https://www.udemy.com/integrando-docker-a-su-infraestrucutra-y-servicios" target="_blank">Ver Curso en Udemy</a>
-<a href="https://www.udemy.com/payment/checkout/?boType=course&boId=1131852" target="_blank">Comprar Curso en Udemy</a>
-</div>
+<div class="udemy-buttons"><a href="https://www.udemy.com/integrando-docker-a-su-infraestrucutra-y-servicios" target="_blank">Ver Curso en Udemy</a><a href="https://www.udemy.com/payment/checkout/?boType=course&boId=1131852" target="_blank">Comprar Curso en Udemy</a></div>
 
 <h2>¿Qué aprenderé?</h2>
 
@@ -50,8 +47,8 @@ El curso da solución al problema que tienen los estudiantes que desean aprender
         <input type="checkbox" id="chbPart2">
         <p>Introducción al módulo</p>
         <p>Funciona en mi maquina</p>
-        <p>Qué son los contenedores</p>
-        <p>Que es Docker</p>
+        <p>¿Qué son los contenedores?</p>
+        <p>¿Que es Docker?</p>
         <p>Los contenedores no son MV</p>
         <p>Resumen del módulo</p>
     </div>
@@ -96,11 +93,11 @@ El curso da solución al problema que tienen los estudiantes que desean aprender
         <p>Resumen del módulo</p>
     </div>
     <div class="part">
-        <label class="header" for="chbPart7">Volúmenes</label>
+        <label class="header" for="chbPart7">Volúmenes en Docker</label>
         <input type="checkbox" id="chbPart7">
         <p>Volúmenes en Docker</p>
         <p>Introducción al módulo</p>
-        <p>Qué son los volúmenes</p>
+        <p>¿Qué son los volúmenes?</p>
         <p>Utilizar volúmenes de datos</p>
         <p>Utilizar contenedores como volúmenes de datos</p>
         <p>Salvar la informaicón</p>
@@ -112,7 +109,7 @@ El curso da solución al problema que tienen los estudiantes que desean aprender
         <p>Introducción al módulo</p>
         <p>Obtener IP de la máquina virtual</p>
         <p>Establecer IP estático en la máquina virtual</p>
-        <p>Qué es publicar un servicio</p>
+        <p>¿Qué es publicar un servicio?</p>
         <p>Publicar servicio con Nginx</p>
         <p>Publicar servicios definiendo el puerto</p>
         <p>Publicar mi sitio web</p>
@@ -122,8 +119,8 @@ El curso da solución al problema que tienen los estudiantes que desean aprender
         <label class="header" for="chbPart9">Publicar imágenes en Docker Store</label>
         <input type="checkbox" id="chbPart9">
         <p>Introducción al módulo</p>
-        <p>Estructurar proyecto pensando en Docker</p>
-        <p>Registrar repositorio en Docker Cloud</p>
+        <p>Estructurar el proyecto pensando en Docker</p>
+        <p>Crear repositorio en Docker Cloud</p>
         <p>Publicar imagen en Docker Cloud</p>
         <p>Fichero dockerignore</p>
         <p>Resumen del módulo</p>
@@ -179,10 +176,7 @@ El curso da solución al problema que tienen los estudiantes que desean aprender
 
 <br>
 
-<div class="udemy-buttons">
-<a href="https://www.udemy.com/integrando-docker-a-su-infraestrucutra-y-servicios" target="_blank">Ver Curso en Udemy</a>
-<a href="https://www.udemy.com/payment/checkout/?boType=course&boId=1131852" target="_blank">Comprar Curso en Udemy</a>
-</div>
+<div class="udemy-buttons"><a href="https://www.udemy.com/integrando-docker-a-su-infraestrucutra-y-servicios" target="_blank">Ver Curso en Udemy</a><a href="https://www.udemy.com/payment/checkout/?boType=course&boId=1131852" target="_blank">Comprar Curso en Udemy</a></div>
 
 <h2>Con la colaboración de:</h2>
 <a target="_blank" href="https://www.docker.com"><img name="Docker" title="Docker" src="/images/course-docker/horizontal_small.png"></a>

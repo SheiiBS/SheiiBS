@@ -46,6 +46,11 @@
 
     <div class="container">
       <header class="translate clearfix">
+        {% if page.promo %}
+          <div class="header-promo">
+            <a href="{{ site.baseurl }}/curso/integrando-docker-a-su-infaestructura-y-servicios">Curso Integrando Docker a su infraestructura y servicios</a>
+          </div>
+        {% endif %}
         <nav>
           {% if page.translate_en %}
             <a href="{{ page.url }}">ES</a> |

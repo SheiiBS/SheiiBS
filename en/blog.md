@@ -4,6 +4,7 @@ title: Blog
 permalink: /en/blog/
 translate_es: /blog/
 sidebar: yes
+promo: yes
 ---
 
 Here is where I share my thoughts on DevOps and Configuration Management.

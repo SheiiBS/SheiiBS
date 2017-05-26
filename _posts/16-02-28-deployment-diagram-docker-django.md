@@ -5,6 +5,7 @@ permalink: /en/blog/deployment-diagram-docker-django/
 translate_es: /blog/diagrama-despliegue-docker-django/
 lang: en
 sidebar: yes
+promo: yes
 category: [diagram]
 tags: [django, uml, docker]
 image: /images/banners/docker-og.png

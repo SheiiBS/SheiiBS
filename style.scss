@@ -305,6 +305,26 @@ img {
     text-align: center;
 }
 
+.header-promo {
+  text-align: center;
+  background-color: #2e95cf;
+  color: #fff;
+  margin-top: 20px;
+  padding: 10px;
+
+  a {
+    cursor: pointer;
+    text-align: center;
+    color: #fff;
+    margin-top: 20px;
+    padding: 10px;
+  }
+
+  &:hover {
+    background-color: #1588c7;
+  }
+}
+
 #index {
     margin: 0 auto;
     text-align: center;
@@ -340,12 +360,26 @@ img {
   padding: 11px 12px;
 
   a {
-    background-color: #17aa1c;
+    background-color: #2e95cf;
     color: #fff;
+    margin-left: 2px;
+    margin-right: 2px;
     height: 45px;
     border: 1px solid transparent;
     padding: 11px 12px;
     cursor: pointer;
+    display: inline-block;
+    width: 260px;
+    transition: background-color .5s;
+
+    &:hover {
+      background-color: #1588c7
+    }
+
+    @include mobile {
+      margin-bottom: 2px;
+
+    }
   }
 }
 

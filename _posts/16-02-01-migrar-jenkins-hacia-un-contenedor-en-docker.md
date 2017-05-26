@@ -5,6 +5,7 @@ permalink: /blog/migrar-jenkins-hacia-un-contenedor-en-docker/
 translate_en: /en/blog/migrate-jenkins-to-a-docker-container/
 lang: es
 sidebar: yes
+promo: yes
 category: [articulo]
 tags: [docker, jenkins, ubuntu]
 image: /images/banners/docker-og.png

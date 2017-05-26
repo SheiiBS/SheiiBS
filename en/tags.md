@@ -4,6 +4,7 @@ title: Tags
 permalink: /en/blog/tags/
 sidebar: yes
 translate_es: /blog/etiquetas/
+promo: yes
 ---
 
 Publications sorted by tags.

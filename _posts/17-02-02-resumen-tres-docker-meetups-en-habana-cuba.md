@@ -5,6 +5,7 @@ permalink: /blog/resumen-tres-docker-meetups-en-la-habana-cuba/
 translate_en: /en/blog/summary-of-three-docker-meetups-in-havana-cuba/
 lang: es
 sidebar: yes
+promo: yes
 category: [articulo]
 tags: [docker]
 image: /images/three-docker-meetups/docker-santa-clara.jpg
