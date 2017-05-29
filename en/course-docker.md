@@ -7,28 +7,30 @@ translate_es: /curso/integrando-docker-a-su-infaestructura-y-servicios
 lang: en
 category: [course]
 tags: [docker]
-image: /images/course-docker/landing.jpg
+image: /images/course-docker/social-en.jpg
 excerpt: Learn, use and adapt Docker from scratch. Deploy your services quickly and securely using Docker.
 ---
 
+<img src="{{ site.baseurl }}/images/course-docker/banner-en.jpg" title="Docker Course" name="Docker Course" />
+
 <h2>Course Description</h2>
 
-El curso da solución al problema que tienen los estudiantes que desean aprender, utilizar y adaptar Docker a las necesidades de su empresa o grupo de desarrollo pero no saben cómo empezar. Les ayudará a entender cómo sacar provecho de la agilidad, control y portabilidad que proporciona Docker.
+The course solves the problem that students have to learn, use and apply Docker to the needs of their company or development group but do not know how to start. It will help them understand how to take advantage of the agility, control and portability provided by Docker.
 
 <div class="udemy-buttons"><a href="https://www.udemy.com/integrando-docker-a-su-infraestrucutra-y-servicios" target="_blank">See Course in Udemy</a><a href="https://www.udemy.com/payment/checkout/?boType=course&boId=1131852" target="_blank">Buy Course in Udemy</a></div>
 
 <h2>What I will learn?</h2>
 
-* Podrán utilizar Docker como plataforma de contenedores en cualquier entorno.
-* Sabrán construir y desplegar sus propios servicios utilizando Docker.
-* Podrán incorporar y adaptar Docker en la infraestructura de sus empresas o grupos de trabajo.
-* Aprenderán a orquestar aplicaciones utilizando Docker Compose.
-* Aprenderán a crear sus propios registros privados para la imágenes de Docker.
+* How to use Docker as a container platform in any environment.
+* How to build and deploy their own services using Docker.
+* How to incorporate and adapt Docker into the infrastructure of their companies or work groups.
+* How to orchestrate applications using Docker Compose.
+* How to create their own private records for Docker images.
 
 <h2>Requirements</h2>
 
-* El estudiante está familiarizado con los conocimientos básicos de los sistemas Linux, pero no necesita ser experto.
-* El estudiante tiene conocimientos básicos para trabajar con editores de texto como vi o vim, pero de no conocerlos puede utilizar alternativas como nano.
+* The student should be familiar with the basics of Linux systems, but need not be an expert
+* The student should have the basic knowledge to work with text editors such as vi or vim, but if he does not know these systems can use alternatives such as nano.
 
 <div class="div-course-docker">
   <h2>Course Program</h2>
@@ -179,3 +181,5 @@ El curso da solución al problema que tienen los estudiantes que desean aprender
 
 <h2>In collaboration with:</h2>
 <a target="_blank" href="https://www.docker.com"><img name="Docker" title="Docker" src="/images/course-docker/horizontal_small.png"></a>
+
+<a target="_blank" href="https://clouding.io"><img name="Clouding.io" title="Clouding.io" src="/images/course-docker/logo-vertical-medium.png"></a>

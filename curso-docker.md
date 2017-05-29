@@ -7,9 +7,11 @@ translate_en: /en/course/integrating-docker-into-your-infrastructure-and-service
 lang: es
 category: [course]
 tags: [docker]
-image: /images/course-docker/landing.jpg
+image: /images/course-docker/social-es.jpg
 excerpt: Aprenda, utilice y adapte Docker desde cero. Despliegue sus servicios de forma rápida y segura utilizando Docker.
 ---
+
+<img src="{{ site.baseurl }}/images/course-docker/banner-es.jpg" title="Curso sobre Docker" name="Curso sobre Docker" />
 
 <h2>Descripción del curso</h2>
 
@@ -180,3 +182,5 @@ El curso da solución al problema que tienen los estudiantes que desean aprender
 
 <h2>Con la colaboración de:</h2>
 <a target="_blank" href="https://www.docker.com"><img name="Docker" title="Docker" src="/images/course-docker/horizontal_small.png"></a>
+
+<a target="_blank" href="https://clouding.io"><img name="Clouding.io" title="Clouding.io" src="/images/course-docker/logo-vertical-medium.png"></a>
