@@ -5,6 +5,7 @@ permalink: /en/blog/build-pipeline-jenkins2-as-code-with-ios10-xcode8/
 translate_es: /blog/construye-pipeline-con-jenkins2-como-codigo-para-ios10-xcode8/
 lang: en
 sidebar: yes
+promo: yes
 category: [articulo]
 tags: [jenkins, xcode, ios10]
 image: /images/banners/jenkins2-pipeline.jpg

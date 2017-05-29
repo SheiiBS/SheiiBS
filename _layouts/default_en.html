@@ -35,6 +35,7 @@
           <nav>
             <a href="{{ site.baseurl }}/en/">Home</a>
             <a href="{{ site.baseurl }}/en/blog">Blog</a>
+            <a href="{{ site.baseurl }}/en/course/integrating-docker-into-your-infrastructure-and-services">Course</a>
             <a href="{{ site.baseurl }}/en/profile">Profile</a>
           </nav>
 
@@ -44,6 +45,11 @@
 
     <div class="container">
       <header class="translate clearfix">
+        {% if page.promo %}
+          <div class="header-promo">
+            <a href="{{ site.baseurl }}/en/course/integrating-docker-into-your-infrastructure-and-services">Course Integrating Docker into your infrastructure and services</a>
+          </div>
+        {% endif %}
         <nav>
           {% if page.translate_es %}
             <a href="{{ page.translate_es }}">ES</a> |

@@ -5,6 +5,7 @@ permalink: /blog/como-autenticar-usuarios-openldap-en-ubuntu-14-04/
 translate_en: /en/blog/how-to-authenticate-openldap-users-on-ubuntu-14-04/
 lang: es
 sidebar: yes
+promo: yes
 category: [configuracion]
 tags: [openldap, ubuntu]
 image: /images/banners/ubuntu-og.png

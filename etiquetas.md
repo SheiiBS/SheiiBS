@@ -4,6 +4,7 @@ title: Etiquetas
 permalink: /blog/etiquetas/
 sidebar: yes
 translate_en: /en/blog/tags/
+promo: yes
 ---
 
 Publicaciones ordenadas por etiquetas.

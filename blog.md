@@ -4,6 +4,7 @@ title: Blog
 permalink: /blog/
 sidebar: yes
 translate_en: /en/blog/
+promo: yes
 ---
 
 Este es el lugar donde comparto mis pensamientos sobre DevOps y Gestión de Configuración.

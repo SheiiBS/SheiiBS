@@ -4,6 +4,7 @@ title: Categorías
 permalink: /blog/categorias/
 sidebar: yes
 translate_en: /en/blog/categories/
+promo: yes
 ---
 
 Publicaciones ordenadas por categoría.

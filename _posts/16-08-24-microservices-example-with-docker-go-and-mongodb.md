@@ -5,6 +5,7 @@ permalink: /en/blog/microservices-example-with-docker-go-and-mongodb/
 translate_es: /blog/microservicios-ejemplo-con-docker-go-y-mongodb/
 lang: en
 sidebar: yes
+promo: yes
 category: [article]
 tags: [docker, go, mongodb]
 image: /images/banners/docker-og.png
