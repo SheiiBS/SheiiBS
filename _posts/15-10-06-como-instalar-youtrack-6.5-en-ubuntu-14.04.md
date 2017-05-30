@@ -7,7 +7,7 @@ lang: es
 sidebar: yes
 category: articulo
 tags: [youtrack, ubuntu]
-excerpt: <strong><em>Instalar y configurar YouTrack 6.5</em></strong> le permitirá administrar la <strong><em>gestión de sus proyectos e incidencias</strong></em> de forma sencilla y amigable. Utilizando solamente el navegador web podrá llevar el <strong><em>control de su empresa</strong></em>.
+excerpt: <strong><em>Instalar y configurar YouTrack 6.5</em></strong> le permitirá administrar la <strong><em>gestión de sus proyectos e incidencias</em></strong> de forma sencilla y amigable. Utilizando solamente el navegador web podrá llevar el <strong><em>control de su empresa</em></strong>.
 image: /images/banners/youtrack-og.jpeg
 ---
 

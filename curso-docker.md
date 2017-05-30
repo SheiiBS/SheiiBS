@@ -181,6 +181,6 @@ El curso da solución al problema que tienen los estudiantes que desean aprender
 <div class="udemy-buttons"><a href="https://www.udemy.com/integrando-docker-a-su-infraestrucutra-y-servicios" target="_blank">Ver Curso en Udemy</a><a href="https://www.udemy.com/payment/checkout/?boType=course&boId=1131852" target="_blank">Comprar Curso en Udemy</a></div>
 
 <h2>Con la colaboración de:</h2>
-<a target="_blank" href="https://www.docker.com"><img name="Docker" title="Docker" src="/images/course-docker/horizontal_small.png"></a>
-
 <a target="_blank" href="https://clouding.io"><img name="Clouding.io" title="Clouding.io" src="/images/course-docker/logo-vertical-medium.png"></a>
+
+<a target="_blank" href="https://www.docker.com"><img name="Docker" title="Docker" src="/images/course-docker/horizontal_small.png"></a>

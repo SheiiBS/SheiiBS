@@ -7,7 +7,7 @@ lang: en
 sidebar: yes
 category: article
 tags: [youtrack, ubuntu]
-excerpt: <strong><em>Installing and configuring You Track 6.5</em></strong> will allow you to <strong><em>manage your projects</strong></em> in a simple way. By simply using the web browser you will be able to <strong><em>control your enterprise</strong></em>.
+excerpt: <strong><em>Installing and configuring You Track 6.5</em></strong> will allow you to <strong><em>manage your projects</em></strong> in a simple way. By simply using the web browser you will be able to <strong><em>control your enterprise</em></strong>.
 image: /images/banners/youtrack-og.jpeg
 ---
 
