@@ -17,7 +17,7 @@ excerpt: Learn, use and adapt Docker from scratch. Deploy your services quickly 
 
 The course solves the problem that students have to learn, use and apply Docker to the needs of their company or development group but do not know how to start. It will help them understand how to take advantage of the agility, control and portability provided by Docker.
 
-<div class="udemy-buttons"><a href="https://www.udemy.com/integrando-docker-a-su-infraestrucutra-y-servicios" target="_blank">See Course in Udemy</a><a href="https://www.udemy.com/payment/checkout/?boType=course&boId=1131852" target="_blank">Buy Course in Udemy</a></div>
+<div class="udemy-buttons"><a href="https://www.udemy.com/integrando-docker-a-su-infraestrucutra-y-servicios/?couponCode=VIP-WEBSITE-20" target="_blank">Buy Course in Udemy. Safe 80%</a></div>
 
 <h2>What I will learn?</h2>
 
@@ -177,7 +177,7 @@ The course solves the problem that students have to learn, use and apply Docker 
 
 <br>
 
-<div class="udemy-buttons"><a href="https://www.udemy.com/integrando-docker-a-su-infraestrucutra-y-servicios" target="_blank">See Course in Udemy</a><a href="https://www.udemy.com/payment/checkout/?boType=course&boId=1131852" target="_blank">Buy Curso in Udemy</a></div>
+<div class="udemy-buttons"><a href="https://www.udemy.com/integrando-docker-a-su-infraestrucutra-y-servicios/?couponCode=VIP-WEBSITE-20" target="_blank">Buy Curso in Udemy. Safe 80%</a></div>
 
 <h2>In collaboration with:</h2>
 <a target="_blank" href="https://clouding.io"><img name="Clouding.io" title="Clouding.io" src="/images/course-docker/logo-vertical-medium.png"></a>

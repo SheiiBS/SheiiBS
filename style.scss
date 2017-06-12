@@ -370,7 +370,7 @@ img {
     padding: 11px 12px;
     cursor: pointer;
     display: inline-block;
-    width: 260px;
+    width: 360px;
     transition: background-color .5s;
 
     &:hover {
@@ -379,7 +379,8 @@ img {
 
     @include mobile {
       margin-bottom: 2px;
-
+      width: 240px;
+      height:70px;
     }
   }
 }
